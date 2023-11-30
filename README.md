@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 <!--
 **man250001/man250001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
