@@ -9,8 +9,22 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 2 times)\n2. workflows (used 2 times)\n3. initial (used 1 times)\n4. commit (used 1 times)",
+    "desc": "My favorite word is \"to\".",
+    "body": "My favorite commit message words are:\n\n1. to (used 12 times)\n2. fixed (used 10 times)\n3. update (used 6 times)\n4. add (used 6 times)\n5. allow (used 6 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/man250001/Online-Banking/commit/a0c94558c8b91e85c5c5fce6322658697ca7f4de\"><strong>a</strong>0c94558c8b91e85c5c5fce6322658697ca7f4de</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/man250001/Online-Banking/commit/e0765c3f2989fbd32dafa84416013351e8d89a47\">e0765c3</a>: Fixed warnings again\n- <a href=\"https://github.com/man250001/Online-Banking/commit/ff03bb6d65ed0a68efa9682d2aa9bb9f444599e8\">ff03bb6</a>: Fixed VSCode warnings",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
   }
 ]
