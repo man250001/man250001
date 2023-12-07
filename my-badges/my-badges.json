@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 24 times)\n2. add (used 19 times)\n3. fix (used 17 times)\n4. merge (used 14 times)\n5. fixed (used 12 times)",
+    "body": "My favorite commit message words are:\n\n1. to (used 25 times)\n2. add (used 19 times)\n3. fix (used 18 times)\n4. update (used 16 times)\n5. merge (used 16 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -47,5 +47,12 @@
     "desc": "I did 4 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/72e72eb035f0f578bb7c3e1ee5bfdd557ab86e6a\">72e72eb</a>: Fix Warning: Remove unneeded suppression\n- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/87dcbb3dd6fafe5f1a874ffb904a6667a8512721\">87dcbb3</a>: Fix Warning: Make Record\n- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/224da9b87ec94daa1fa517a1508f658f0e31b00d\">224da9b</a>: Fix Warning: Suppressed\n- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/3266db7fe30cb076ba7706e1d51c80cdbc134601\">3266db7</a>: Fix Warning: Suppressed :frown:",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-4.png?raw=true"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/man250001/Online-Banking/pull/4\">#4</a>: Update .gitattributes",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
   }
 ]
