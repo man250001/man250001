@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 26 times)\n2. update (used 20 times)\n3. add (used 19 times)\n4. fix (used 18 times)\n5. merge (used 18 times)",
+    "body": "My favorite commit message words are:\n\n1. to (used 27 times)\n2. add (used 23 times)\n3. update (used 20 times)\n4. merge (used 19 times)\n5. fix (used 18 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -54,5 +54,12 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/man250001/Online-Banking/pull/4\">#4</a>: Update .gitattributes",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/abd6754038164509b54f0755ab8c2429d6c4dd84\"><strong>ab</strong>d6754038164509b54f0755ab8c2429d6c4dd84</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
   }
 ]
