@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/man250001/Pharmacy_Manager/commit/2052ac0e47eda5a8cf0833ba3c289903260337b1">2052ac0</a>: Fix VSCode Warnings: Correct FXIds
-- <a href="https://github.com/man250001/Pharmacy_Manager/commit/c1c619ec53fdbf0bc5508cb18a281580418e114c">c1c619e</a>: Fix Warnings: Correct FXIds
-- <a href="https://github.com/man250001/Pharmacy_Manager/commit/d72895bcf28579584932bb35389fc20e23577816">d72895b</a>: Fix Warnings: Unwrap Children
+- <a href="https://github.com/man250001/MovieTickets/commit/888dd31573c4012ac229d6099d5d6bfaf8d68145">888dd31</a>: fix incorrect file
+- <a href="https://github.com/man250001/MovieTickets/commit/b542f62022431344a4364fc1ea3f7e5108f3e617">b542f62</a>: fix errors/validate email
+- <a href="https://github.com/man250001/MovieTickets/commit/3bb1504b4a8c808d18673d7ed1bb8e3c525c4be7">3bb1504</a>: fix controller!
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
