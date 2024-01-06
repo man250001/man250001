@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 31 times)\n2. to (used 29 times)\n3. merge (used 26 times)\n4. update (used 25 times)\n5. fix (used 21 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 31 times)\n2. to (used 29 times)\n3. fix (used 27 times)\n4. merge (used 26 times)\n5. update (used 25 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -61,5 +61,12 @@
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/abd6754038164509b54f0755ab8c2429d6c4dd84\"><strong>ab</strong>d6754038164509b54f0755ab8c2429d6c4dd84</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/man250001/MovieTickets/commit/0f2fffd5609f4095eb0e1cbf6ed9a333d08b787d\">0f2fffd</a>: Fix warnings: grammar\n- <a href=\"https://github.com/man250001/MovieTickets/commit/90d056d8475dcbefe448329129a74b5bb8f99d13\">90d056d</a>: Fix warnings: unwrap children\n- <a href=\"https://github.com/man250001/MovieTickets/commit/387102679809180180e26998a84105de0b653e9d\">3871026</a>: Fix warnings: suppressed\n- <a href=\"https://github.com/man250001/MovieTickets/commit/18a086d6912cbefefad6232fe4f30b677124a944\">18a086d</a>: Fix warnings: exception catching again\n- <a href=\"https://github.com/man250001/MovieTickets/commit/74a87942d97ccad964cae8be7f73ae0fcd47da19\">74a8794</a>: Fix warnings: exception catching\n- <a href=\"https://github.com/man250001/MovieTickets/commit/51946b80ab034671bc2b3b00303f3da1f59dd705\">51946b8</a>: Fix warnings",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-6.png?raw=true"
   }
 ]
