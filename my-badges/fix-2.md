@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/man250001/Online-Banking/commit/e0765c3f2989fbd32dafa84416013351e8d89a47">e0765c3</a>: Fixed warnings again
-- <a href="https://github.com/man250001/Online-Banking/commit/ff03bb6d65ed0a68efa9682d2aa9bb9f444599e8">ff03bb6</a>: Fixed VSCode warnings
+- <a href="https://github.com/man250001/MovieTickets/commit/2b6d0eec0965a2a6bf1a3ba3060404fb9e523ed9">2b6d0ee</a>: Fix Warning: Shorten Lambda
+- <a href="https://github.com/man250001/MovieTickets/commit/06730f89346dc42591d7fd63bce2c835c621e2aa">06730f8</a>: Fix Error: Unused import (Overtime Start)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
