@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 38 times)\n2. to (used 30 times)\n3. fix (used 29 times)\n4. merge (used 27 times)\n5. update (used 26 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 40 times)\n2. to (used 31 times)\n3. fix (used 29 times)\n4. merge (used 28 times)\n5. update (used 27 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -59,7 +59,7 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/abd6754038164509b54f0755ab8c2429d6c4dd84\"><strong>ab</strong>d6754038164509b54f0755ab8c2429d6c4dd84</a>",
+    "body": "- <a href=\"https://github.com/man250001/Portfolio_CM/commit/ab76df34d760249d115093c52654015520e8a0f7\"><strong>ab</strong>76df34d760249d115093c52654015520e8a0f7</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
   },
   {
