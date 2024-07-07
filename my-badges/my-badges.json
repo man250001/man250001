@@ -11,83 +11,83 @@
     "tier": 0,
     "desc": "My favorite word is \"add\".",
     "body": "My favorite commit message words are:\n\n1. add (used 44 times)\n2. fix (used 35 times)\n3. to (used 31 times)\n4. merge (used 29 times)\n5. update (used 27 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/PG778/MovieTheater_LC/commit/aeb0dc014ca3e7f6bb3cf4a218773eb9fd6deed6\"><strong>a</strong>eb0dc014ca3e7f6bb3cf4a218773eb9fd6deed6</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/man250001/MovieTickets/commit/2b6d0eec0965a2a6bf1a3ba3060404fb9e523ed9\">2b6d0ee</a>: Fix Warning: Shorten Lambda\n- <a href=\"https://github.com/man250001/MovieTickets/commit/06730f89346dc42591d7fd63bce2c835c621e2aa\">06730f8</a>: Fix Error: Unused import (Overtime Start)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-2.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/man250001/MovieTickets/commit/888dd31573c4012ac229d6099d5d6bfaf8d68145\">888dd31</a>: fix incorrect file\n- <a href=\"https://github.com/man250001/MovieTickets/commit/b542f62022431344a4364fc1ea3f7e5108f3e617\">b542f62</a>: fix errors/validate email\n- <a href=\"https://github.com/man250001/MovieTickets/commit/3bb1504b4a8c808d18673d7ed1bb8e3c525c4be7\">3bb1504</a>: fix controller!",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-3.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/6c36ccffb5b567294e06f861b2e94baffcb95caf\">6c36ccf</a>: chore",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/chore-commit/chore-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/72e72eb035f0f578bb7c3e1ee5bfdd557ab86e6a\">72e72eb</a>: Fix Warning: Remove unneeded suppression\n- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/87dcbb3dd6fafe5f1a874ffb904a6667a8512721\">87dcbb3</a>: Fix Warning: Make Record\n- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/224da9b87ec94daa1fa517a1508f658f0e31b00d\">224da9b</a>: Fix Warning: Suppressed\n- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/3266db7fe30cb076ba7706e1d51c80cdbc134601\">3266db7</a>: Fix Warning: Suppressed :frown:",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-4.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/man250001/Online-Banking/pull/4\">#4</a>: Update .gitattributes",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/this-is-fine/this-is-fine.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/man250001/Portfolio_CM/commit/ab76df34d760249d115093c52654015520e8a0f7\"><strong>ab</strong>76df34d760249d115093c52654015520e8a0f7</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "fix-6",
     "tier": 5,
     "desc": "I did 6 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/man250001/MovieTickets/commit/0f2fffd5609f4095eb0e1cbf6ed9a333d08b787d\">0f2fffd</a>: Fix warnings: grammar\n- <a href=\"https://github.com/man250001/MovieTickets/commit/90d056d8475dcbefe448329129a74b5bb8f99d13\">90d056d</a>: Fix warnings: unwrap children\n- <a href=\"https://github.com/man250001/MovieTickets/commit/387102679809180180e26998a84105de0b653e9d\">3871026</a>: Fix warnings: suppressed\n- <a href=\"https://github.com/man250001/MovieTickets/commit/18a086d6912cbefefad6232fe4f30b677124a944\">18a086d</a>: Fix warnings: exception catching again\n- <a href=\"https://github.com/man250001/MovieTickets/commit/74a87942d97ccad964cae8be7f73ae0fcd47da19\">74a8794</a>: Fix warnings: exception catching\n- <a href=\"https://github.com/man250001/MovieTickets/commit/51946b80ab034671bc2b3b00303f3da1f59dd705\">51946b8</a>: Fix warnings",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-6.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/PG778/MovieTheater_LC/commit/96af6a5d626650d0b173a9986bd845368bcdab44\">96af6a5</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/PG778/MovieTheater_LC/commit/96af6a5d626650d0b173a9986bd845368bcdab44\">96af6a5</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "fix-5",
     "tier": 4,
     "desc": "I did 5 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/836307ac7c76173cf5354b2eeb376c55693fd93b\">836307a</a>: Fix all portfolio problems\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/71029b964f6b11188953c849864e212b713b0a7f\">71029b9</a>: Fix reflection spacing\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/c1c6b27e6d4c3352167de3cfe099d75faf3554ca\">c1c6b27</a>: Fix problems with pdfs\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/6f612d14ce1d87e5aa4629d2dadb21c3c853a145\">6f612d1</a>: Fix styling issues, I hope!\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/acf0965110c564618f2717a4ab4f70409fdb1e94\">acf0965</a>: Fix styling issues, I hope!",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
   }
 ]
