@@ -1,12 +1,5 @@
 [
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
-  },
-  {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
@@ -17,7 +10,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/PG778/MovieTheater_LC/commit/aeb0dc014ca3e7f6bb3cf4a218773eb9fd6deed6\"><strong>a</strong>eb0dc014ca3e7f6bb3cf4a218773eb9fd6deed6</a>",
+    "body": "- <a href=\"https://github.com/man250001/Online-Banking/commit/a0c94558c8b91e85c5c5fce6322658697ca7f4de\"><strong>a</strong>0c94558c8b91e85c5c5fce6322658697ca7f4de</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -59,7 +52,7 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/man250001/Portfolio_CM/commit/ab76df34d760249d115093c52654015520e8a0f7\"><strong>ab</strong>76df34d760249d115093c52654015520e8a0f7</a>",
+    "body": "- <a href=\"https://github.com/man250001/Pharmacy_Manager/commit/abd6754038164509b54f0755ab8c2429d6c4dd84\"><strong>ab</strong>d6754038164509b54f0755ab8c2429d6c4dd84</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
