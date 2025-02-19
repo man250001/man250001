@@ -42,13 +42,6 @@
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
-    "id": "this-is-fine",
-    "tier": 0,
-    "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/man250001/Online-Banking/pull/4\">#4</a>: Update .gitattributes",
-    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
