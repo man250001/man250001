@@ -75,5 +75,12 @@
     "desc": "I did 5 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/836307ac7c76173cf5354b2eeb376c55693fd93b\">836307a</a>: Fix all portfolio problems\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/71029b964f6b11188953c849864e212b713b0a7f\">71029b9</a>: Fix reflection spacing\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/c1c6b27e6d4c3352167de3cfe099d75faf3554ca\">c1c6b27</a>: Fix problems with pdfs\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/6f612d14ce1d87e5aa4629d2dadb21c3c853a145\">6f612d1</a>: Fix styling issues, I hope!\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/acf0965110c564618f2717a4ab4f70409fdb1e94\">acf0965</a>: Fix styling issues, I hope!",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/6f612d14ce1d87e5aa4629d2dadb21c3c853a145\">6f612d1</a>\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/acf0965110c564618f2717a4ab4f70409fdb1e94\">acf0965</a>\n- <a href=\"https://github.com/man250001/Portfolio_CM/commit/6168eb142146640c2b18c2796f061002f303a1d9\">6168eb1</a>\n- <a href=\"https://github.com/man250001/MovieTickets/commit/b34695ac26525302932536f3e7d0f40689f2ce63\">b34695a</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
